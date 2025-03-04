@@ -8,7 +8,7 @@ from aiogram.filters import CommandStart
 from aiogram.methods.get_chat_member import GetChatMember
 
 # === TOKEN VA CHAT ID ===
-TOKEN = "7830067818:AAHdWV23wjWrFT9VxaJKNh7MwO3wm2UWCOk"  # Bot tokenini kiriting
+TOKEN = "7830067818:AAFprCwVk9MktV5LJPkxR_waIY5Flq6xll0"  # Bot tokenini kiriting
 GROUP_CHAT_ID = "-1002425037771"  # Admin guruh ID
 CHANNEL_ID = "@transformatsiyamarkazinsu"  # Kanal username
 
